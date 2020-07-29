@@ -1,0 +1,12 @@
+       git add 2020-07-29-git-dan-master/
+  100  git commit
+  101  git commit -m "test"
+  102  git add 2020-07-29-git-dan-master/
+  103  git add 2020-07-29-git-dan-master\ 2/
+  104  git commit
+  105  git commit -m "teacherRepo"
+  106  git remote add origin https://github.com/keshavchainani/Test.git
+  107* 
+  108  git remote remove origin
+  109  git remote add origin https://github.com/keshavchainani/Git-Learning.git
+  110  git push origin master
