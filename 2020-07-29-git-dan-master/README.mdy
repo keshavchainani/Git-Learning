@@ -1,4 +1,4 @@
-# 2020-07-29-git-dan
+ii# 2020-07-29-git-dan
 
 ## The basics
 
@@ -19,10 +19,5 @@
 
 Remotes
 git remote add <URL: adds a remote url
-<<<<<<< HEAD
-git push origin master: local -> remote
-git pull origin masiter: remote -> local ocal changes
-=======
-git push origin master: local -> remote. remote changes
+git push origin master: local -> remote. 
 git pull origin master: remote -> local
->>>>>>> e91db029b7b9f11c89e63e6f576c3861434dc132
