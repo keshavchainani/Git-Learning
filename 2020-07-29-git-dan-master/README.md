@@ -19,5 +19,5 @@
 
 Remotes
 git remote add <URL: adds a remote url
-git push origin master: local -> remote
+git push origin master: local -> remote. remote changes
 git pull origin master: remote -> local
