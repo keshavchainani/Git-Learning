@@ -20,4 +20,4 @@
 Remotes
 git remote add <URL: adds a remote url
 git push origin master: local -> remote
-git pull origin master: remote -> local
+git pull origin masiter: remote -> local ocal changes
